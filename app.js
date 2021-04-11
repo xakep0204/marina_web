@@ -23,6 +23,7 @@ app.set('view engine', '.hbs');
 
 // public shit
 
+// s
 app.use(express.static(path.join(__dirname,'public')));
 
 // Routes
